@@ -1,3 +1,6 @@
+# hello-world
+My first GitHub project. Used to deal with GitLab, ever since... where private repos are also free! ;-)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/PedroFerr/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
